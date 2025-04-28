@@ -1,4 +1,4 @@
-function List() {
+function List({people}) {
     return (
         <div>
             List
