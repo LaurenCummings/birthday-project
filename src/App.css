@@ -3,6 +3,13 @@
     padding: 0;
 }
 
-main {
+body { 
     background-color: #e76ea7;
+}
+
+.container {
+    background-color: white;
+    width: 300px;
+    margin: 60px auto;
+    padding: 20px;
 }
