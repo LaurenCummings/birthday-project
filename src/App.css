@@ -31,5 +31,5 @@ body {
     display: block;
     margin: auto;
     border-radius: 3px;
-    border: 1px solid #524d4d;
+    border: 1px solid rgba(82, 77, 77, 0.8);
 }
